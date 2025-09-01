@@ -1,2 +1,2 @@
 # tylerhoel.github.io
-Cybersecurity Portfolio
+Tyler's Portfolio of Cybersecurity Projects
