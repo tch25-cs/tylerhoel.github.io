@@ -36,9 +36,9 @@ I enjoy working at the intersection of leadership, technology, and strategy.
 
 ## Contact
 Let’s connect!  
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)  
-- [GitHub](https://github.com/yourusername)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/tylerhoel)  
+- [GitHub](https://github.com/tch25-cs)  
+- [Email](mailto:tylerhoel25@gmail.com)  
 
 [Go to Contact →](contact.html)
 
