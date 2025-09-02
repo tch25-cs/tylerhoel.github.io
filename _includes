@@ -1,7 +1,3 @@
-tylerhoel.github.io/
-├── _includes/
-
-nav.html
 <nav style="margin-bottom: 2rem; font-family: monospace;">
   <a href="{{ '/' | relative_url }}">Home</a> |
   <a href="{{ '/about.html' | relative_url }}">About</a> |
