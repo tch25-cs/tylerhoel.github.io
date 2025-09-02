@@ -3,12 +3,7 @@ layout: default
 title: Projects
 ---
 
-<nav>
-  <a href="/">Home</a> |
-  <a href="/about.html">About</a> |
-  <a href="/projects.html">Projects</a> |
-  <a href="/contact.html">Contact</a>
-</nav>
+{% include nav.html %}
 
 # Projects
 
