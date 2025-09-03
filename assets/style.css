@@ -12,21 +12,22 @@
   margin-right: auto;
 }
 
-.hero h1 {
-  font-size: 3rem;
-  margin-bottom: 1rem;
+h1 {
+  color: #f2f2f2;
   text-shadow: 1px 1px 2px #000;
+  text-align: center;
+  margin-bottom: 1rem;
 }
 
-.hero p {
-  font-size: 1.1rem;
-  max-width: 700px;
-  margin: 0 auto 1.5rem;
-}
-
-.hero a {
+p, a {
   color: #33FF33;
-  text-decoration: none;
-  font-weight: bold;
-  margin-right: 1rem;
+  text-align: center;
+  display: block;
+  margin-bottom: 0.5rem;
 }
+
+body {
+  background: #222;
+  font-family: monospace;
+}
+
