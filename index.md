@@ -5,10 +5,15 @@ title: Home
 
 {% include nav.html %}
 
-# Hi, I’m Tyler 👋
+<section style="background: #222; color: #f2f2f2; padding: 4rem 2rem; text-align: center; border-radius: 12px; margin-bottom: 2rem;">
 
-Welcome to my portfolio! I’m an MBA graduate, firearms instructor, and aspiring cybersecurity professional.  
-I enjoy working at the intersection of leadership, technology, and strategy.
+# Hi, I'm Tyler Hoel 👋  
+
+**Cybersecurity GRC Specialist** | Risk, Compliance & Strategy  
+
+I help businesses strengthen their security posture by aligning technical defenses with compliance frameworks, risk management, and effective governance.  
+
+</section>
 
 ---
 
