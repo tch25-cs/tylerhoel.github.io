@@ -1,26 +1,60 @@
 /* assets/style.css */
+
+/* Body styling */
+body {
+  background-color: #222 !important;  /* dark background */
+  color: #f2f2f2 !important;          /* default text color */
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+}
+
+/* Hero section */
 .hero {
   background: linear-gradient(135deg, #1a1a1a, #333333);
   color: #f2f2f2;
-  padding: 5rem 2rem;
+  padding: 4rem 2rem;
   text-align: center;
   border-radius: 12px;
-  margin-bottom: 2rem;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+  margin: 2rem auto;
   max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
 }
 
-h1 {
-  color: #f2f2f2;
-  text-shadow: 1px 1px 2px #000;
-  text-align: center;
+/* Headings inside hero */
+.hero h1 {
+  font-size: 2.8rem;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 2px #000;
 }
 
-p, a {
+.hero p {
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto 1.5rem;
+}
+
+/* Links inside hero */
+.hero a {
   color: #33FF33;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0 0.5rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .hero {
+    padding: 3rem 1rem;
+  }
+  .hero h1 {
+    font-size: 2rem;
+  }
+  .hero p {
+    font-size: 1rem;
+  }
+}
+
   text-align: center;
   display: block;
   margin-bottom: 0.5rem;
