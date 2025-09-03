@@ -3,3 +3,4 @@ description: Showcasing my cybersecurity skills for collaboration, opportunity, 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+baseurl: "/tylerhoel.github.io"
