@@ -5,17 +5,12 @@ title: Home
 
 {% include nav.html %}
 
-<div class="hero">
-
 # Hi, I'm Tyler Hoel 👋
 
 **Cybersecurity GRC Specialist** | Risk, Compliance & Strategy
 
 I help businesses strengthen their security posture by aligning technical defenses with compliance frameworks, risk management, and effective governance.
 
-[View My Projects →](projects.html) | [Connect on LinkedIn](https://www.linkedin.com/in/tylerhoel)
-
-</div>
 
 ## About Me
 - MBA (2024) + Communication Studies (2020)
