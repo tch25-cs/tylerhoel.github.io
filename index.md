@@ -5,15 +5,17 @@ title: Home
 
 {% include nav.html %}
 
-<section style="background: #222; color: #f2f2f2; padding: 4rem 2rem; text-align: center; border-radius: 12px; margin-bottom: 2rem;">
+<div class="hero">
 
-# Hi, I'm Tyler Hoel 👋  
+# Hi, I'm Tyler 👋
 
-**Cybersecurity GRC Specialist** | Risk, Compliance & Strategy  
+**Cybersecurity GRC Specialist** | Risk, Compliance & Strategy
 
-I help businesses strengthen their security posture by aligning technical defenses with compliance frameworks, risk management, and effective governance.  
+I help businesses strengthen their security posture by aligning technical defenses with compliance frameworks, risk management, and effective governance.
 
-</section>
+[View My Projects →](projects.html) | [Connect on LinkedIn](https://www.linkedin.com/in/tylerhoel)
+
+</div>
 
 ---
 
