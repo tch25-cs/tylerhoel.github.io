@@ -1,5 +1,5 @@
-/* Import the Jekyll Hacker theme CSS first */
-@import url("{{ '/assets/css/style.css' | relative_url }}");
+/* Import the Jekyll Hacker theme CSS */
+@import url("https://cdn.jsdelivr.net/gh/pages-themes/hacker@latest/assets/css/style.css");
 
 /* --- Custom overrides & animations below --- */
 
