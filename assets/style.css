@@ -1,3 +1,8 @@
+/* Import the Jekyll Hacker theme CSS first */
+@import url("{{ '/assets/css/style.css' | relative_url }}");
+
+/* --- Custom overrides & animations below --- */
+
 /* Hero section fade-in animation */
 .fade-in {
   opacity: 0;
