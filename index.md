@@ -10,7 +10,7 @@ title: Home
   <h1 style="font-size:3rem; margin-bottom:0.5rem;">Hi, I'm Tyler 👋</h1>
   <h2 style="font-size:1.5rem; font-weight:normal; margin-bottom:1rem;">Cybersecurity GRC Specialist | Risk, Compliance & Strategy</h2>
   <p style="font-size:1.1rem; max-width:600px; margin:0 auto;">
-    I help businesses strengthen their security posture by aligning technical defenses with compliance frameworks, risk management, and effective governance.
+    Helping businesses strengthen their security posture by aligning technical defenses with compliance frameworks, risk management, and effective governance.
   </p>
 </div>
 
