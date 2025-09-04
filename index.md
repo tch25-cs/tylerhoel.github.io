@@ -5,8 +5,8 @@ title: Home
 
 {% include nav.html %}
 
-<!-- Hero Section -->
-<div style="text-align:center; margin: 3rem 0; padding: 2rem; background-color:#1a1a1a; color:#f2f2f2; border-radius:10px;">
+<!-- Hero Section with Gradient Background -->
+<div style="text-align:center; margin: 3rem 0; padding: 2rem; background: linear-gradient(to right, #1a1a1a, #333333); color:#f2f2f2; border-radius:10px;">
   <h1 style="font-size:3rem; margin-bottom:0.5rem;">Hi, I'm Tyler 👋</h1>
   <h2 style="font-size:1.5rem; font-weight:normal; margin-bottom:1rem;">Cybersecurity GRC Specialist | Risk, Compliance & Strategy</h2>
   <p style="font-size:1.1rem; max-width:600px; margin:0 auto;">
