@@ -17,3 +17,16 @@
     opacity: 1;
   }
 }
+
+/* Initial hidden state */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+/* When visible on scroll */
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
