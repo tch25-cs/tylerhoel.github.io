@@ -1,0 +1,19 @@
+/* Hero section fade-in animation */
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 1s ease forwards;
+}
+
+.fade-in.delay-1 {
+  animation-delay: 0.5s;
+}
+
+.fade-in.delay-2 {
+  animation-delay: 1s;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
