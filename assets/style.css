@@ -1,12 +1,11 @@
-/* Import the Jekyll Hacker theme CSS */
-@import url("https://cdn.jsdelivr.net/gh/pages-themes/hacker@latest/assets/css/style.css");
-
-/* --- Custom overrides & animations below --- */
+/* --- Custom overrides & animations --- */
 
 /* Hero section fade-in animation */
 .fade-in {
   opacity: 0;
+  transform: translateY(20px);
   animation: fadeIn 1s ease forwards;
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
 }
 
 .fade-in.delay-1 {
@@ -17,21 +16,23 @@
   animation-delay: 1s;
 }
 
+.fade-in.delay-3 {
+  animation-delay: 1.5s;
+}
+
+.fade-in.delay-4 {
+  animation-delay: 2s;
+}
+
+.fade-in.delay-5 {
+  animation-delay: 2.5s;
+}
+
 @keyframes fadeIn {
   to {
     opacity: 1;
+    transform: translateY(0);
   }
 }
 
-/* Initial hidden state */
-.fade-in {
-  opacity: 0;
-  transform: translateY(20px);
-  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
-}
-
-/* When visible on scroll */
-.fade-in.visible {
-  opacity: 1;
-  transform: translateY(0);
-}
+/* Additional custom overrides can go here */
