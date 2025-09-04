@@ -1,6 +1,0 @@
-/* Hero section gradient (example from previous working version) */
-.hero {
-  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
-  color: white;
-  padding: 3rem 2rem;
-}
