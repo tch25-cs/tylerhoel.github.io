@@ -1,38 +1,6 @@
-/* --- Custom overrides & animations --- */
-
-/* Hero section fade-in animation */
-.fade-in {
-  opacity: 0;
-  transform: translateY(20px);
-  animation: fadeIn 1s ease forwards;
-  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+/* Hero section gradient (example from previous working version) */
+.hero {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: white;
+  padding: 3rem 2rem;
 }
-
-.fade-in.delay-1 {
-  animation-delay: 0.5s;
-}
-
-.fade-in.delay-2 {
-  animation-delay: 1s;
-}
-
-.fade-in.delay-3 {
-  animation-delay: 1.5s;
-}
-
-.fade-in.delay-4 {
-  animation-delay: 2s;
-}
-
-.fade-in.delay-5 {
-  animation-delay: 2.5s;
-}
-
-@keyframes fadeIn {
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* Additional custom overrides can go here */
