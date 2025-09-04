@@ -1,14 +1,14 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const fadeElements = document.querySelectorAll(".fade-in");
+document.addEventListener("DOMContentLoaded", () => {
+  const fadeEls = document.querySelectorAll(".fade-in");
 
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         entry.target.classList.add("visible");
-        observer.unobserve(entry.target);
+        observer.unobserve(entry.target); // fade-in once
       }
     });
-  }, { threshold: 0.1 });
+  }, { threshold: 0.2 });
 
-  fadeElements.forEach(el => observer.observe(el));
+  fadeEls.forEach(el => observer.observe(el));
 });
