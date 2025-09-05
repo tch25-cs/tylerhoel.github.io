@@ -14,10 +14,17 @@ title: Home
   </p>
 </div>
 
-## About Me
-- MBA (2024) + Communication Studies (2020)
-- USCCA Certified Firearms Instructor  
-- Exploring cybersecurity with interests in OSINT, threat analysis, and business-security alignment  
+## About Me  
+
+I’m Tyler — MBA graduate, firearms instructor, and cybersecurity explorer.  
+I’m passionate about connecting **business strategy with security**, with interests in OSINT, threat analysis, and GRC.
+
+**Quick snapshot:**  
+- MBA (2024) + Communication Studies (2020)  
+- USCCA Certified Firearms Instructor & Team Leader  
+- Focused on **business–security alignment** (governance, risk, compliance)
+
+Outside of work, I’m usually teaching, learning, or out on the trails or slopes.  
 
 [Read more →](about.html)
 
