@@ -28,9 +28,22 @@ Outside of work, I’m usually teaching, learning, or out on the trails or slope
 
 [Read more →](about.html)
 
-## Projects
-- **Týr Fyre Marketing Project** – Firearm safety marketing brand built around strong social media content  
-- **MicroNano Blockchain Concept** – A proof-of-work cryptocurrency inspired by antimatter as a high-value store of energy  
+## Projects  
+
+- **MicroNano Blockchain Concept**  
+  A proof-of-work cryptocurrency inspired by antimatter as a high-value store of energy. Designed as a smaller-supply alternative to Bitcoin with a focus on scarcity and security.  
+
+- **Týr Fyre Marketing Brand**  
+  A firearms safety initiative built around digital marketing, branding, and community engagement. Developed Instagram content strategy, logo design, and growth framework.  
+
+- **OSINT Threat Analysis**  
+  Conducted open-source intelligence investigations to identify risks, map digital footprints, and highlight vulnerabilities that organizations must monitor.  
+
+- **Governance & Compliance Framework**  
+  Created mock policies and compliance mappings (NIST CSF, ISO 27001, SOC 2) to show how businesses can align operations with security standards.  
+
+- **Risk Register Simulation**  
+  Designed a sample enterprise risk register to track threats, likelihood, impact, and mitigation steps — demonstrating risk management in practice.    
 
 [See more →](projects.html)
 
