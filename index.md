@@ -16,13 +16,13 @@ title: Home
 
 ## About Me  
 
-I'm a cybersecurity explorer, MBA graduate, and compliance specialist.  
-I’m passionate about connecting **business strategy with security**, with interests in OSINT, threat analysis, and GRC.
+Cybersecurity explorer, compliance specialist, and MBA graduate.  
+I’m passionate about connecting **business strategy with security**, with interests in GRC, OSINT, and threat analysis.
 
 **Quick snapshot:**     
 - Focused on **business–security alignment** (governance, risk, compliance)
+- Additional focus of full-stack development
 - MBA (2024) + Communication Studies (2020)
-- Team Leader & USCCA Certified Firearms Instructor
 
 Outside of work, I’m usually learning, exploring new interests, or out on the trails or slopes.  
 
