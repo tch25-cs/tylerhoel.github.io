@@ -16,7 +16,7 @@ title: Home
 
 ## About Me  
 
-I’m Tyler — cybersecurity explorer, MBA graduate, and compliance specialist.  
+I'm a cybersecurity explorer, MBA graduate, and compliance specialist.  
 I’m passionate about connecting **business strategy with security**, with interests in OSINT, threat analysis, and GRC.
 
 **Quick snapshot:**     
@@ -28,16 +28,16 @@ Outside of work, I’m usually learning, exploring new interests, or out on the 
 
 [Read more →](about.html)
 
-## Projects  
-
-- **OSINT Threat Analysis**  
-  Conducted open-source intelligence investigations to identify risks, map digital footprints, and highlight vulnerabilities that organizations must monitor.  
+## Projects   
 
 - **Governance & Compliance Framework**  
   Created mock policies and compliance mappings (NIST CSF, ISO 27001, SOC 2) to show how businesses can align operations with security standards.  
 
 - **Risk Register Simulation**  
-  Designed a sample enterprise risk register to track threats, likelihood, impact, and mitigation steps — demonstrating risk management in practice.    
+  Designed a sample enterprise risk register to track threats, likelihood, impact, and mitigation steps — demonstrating risk management in practice.
+
+  - **OSINT Threat Analysis**  
+  Conducted open-source intelligence investigations to identify risks, map digital footprints, and highlight vulnerabilities that organizations must monitor. 
 
 - **MicroNano Blockchain Concept**  
   A proof-of-work cryptocurrency inspired by antimatter as a high-value store of energy. Designed as a smaller-supply alternative to Bitcoin with a focus on scarcity and security.  
