@@ -36,7 +36,7 @@ Outside of work, I’m usually learning, exploring new interests, or out on the 
 - **Risk Register Simulation**  
   Designed a sample enterprise risk register to track threats, likelihood, impact, and mitigation steps — demonstrating risk management in practice.
 
-  - **OSINT Threat Analysis**  
+- **OSINT Threat Analysis**  
   Conducted open-source intelligence investigations to identify risks, map digital footprints, and highlight vulnerabilities that organizations must monitor. 
 
 - **MicroNano Blockchain Concept**  
