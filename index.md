@@ -40,10 +40,7 @@ Outside of work, I’m usually learning, exploring new interests, or out on the 
   Conducted open-source intelligence investigations to identify risks, map digital footprints, and highlight vulnerabilities that organizations must monitor. 
 
 - **MicroNano Blockchain Concept**  
-  A proof-of-work cryptocurrency inspired by antimatter as a high-value store of energy. Designed as a smaller-supply alternative to Bitcoin with a focus on scarcity and security.  
-
-- **Týr Fyre Marketing Brand**  
-  A firearms safety initiative built around digital marketing, branding, and community engagement. Developed Instagram content strategy, logo design, and growth framework.  
+  A proof-of-work cryptocurrency inspired by antimatter as a high-value store of energy. Designed as a smaller-supply alternative to Bitcoin with a focus on scarcity and security.   
 
 [See more →](projects.html)
 
